@@ -36,15 +36,15 @@ const uniqueInOrder = iterable =>
   [...iterable].filter((item, index) => item !== iterable[index - 1]);
 ```
 ## **Experience**
-### 1. **[Filmoteka](https://kyzym.github.io/this-team/)**
- - JS, Parcel, HTML, SASS   
- - Group Project. Role: Team Lead.
- - A site for searching movies with the ability to create your
+1. **[Filmoteka](https://kyzym.github.io/this-team/)**
+   - JS, Parcel, HTML, SASS   
+   - Group Project. Role: Team Lead.
+   - A site for searching movies with the ability to create your
 own library.
-### 2. **[IceCream](https://nickleso.github.io/parcel-ice-team7/)**
- - HTML, SASS, JS, Parcel
- - Group Project. Role: Hero-Header Developer
- - Ice-cream company site. A website with responsive layout.
+1. **[IceCream](https://nickleso.github.io/parcel-ice-team7/)**
+   - HTML, SASS, JS, Parcel
+   - Group Project. Role: Hero-Header Developer
+   - Ice-cream company site. A website with responsive layout.
 
 ## **Education**
 - **Donbas State TechnicalUniversity** - Master’s degree in Electronic
